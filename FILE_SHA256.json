@@ -1,0 +1,18 @@
+{
+  "DEMO_RECORDING_VALIDATION.json": "7a090826d23f1ca11d5543cfa4ea5c3bd1aa3640b7ef0a068c0292c8caaac226",
+  "Module_3_Report.pdf": "15dc22f2f2392c43b6967a2a5046f6ad9b19e0ec5022bfa91936ea8b8c4f3365",
+  "Module_3_Working_Demo.mp4": "a854f8b999c0ac2e4f41a846c1606959bac6e63e2a53abca54cb0a84175025a6",
+  "README.md": "ae17a64ac6f45a48c969ea561fec06c3e9c1627af76d3fa6a029400c46f8153d",
+  "REQUIREMENTS_CHECKLIST.md": "a1c2984877300a54aaa98787f49aad934ca9a450551930eb3ae5ac4ae0c0edbc",
+  "TESTED_ENVIRONMENT.json": "679fd190f48cbfa44b6537f1b341e4e17c61922e83a7fbcfd0afb59266730c47",
+  "comparison.png": "b6e3f492646fef0359b54251586c245f14f45a00271446dba6cc9630f046e407",
+  "convolution_arrays.npz": "c78d9e6c8a134663e095054aaec6ce828756bfdf94bb96dedd252c08c2916491",
+  "gaussian_kernel.csv": "75a79ccc78127f7f68fbd490ffbe8647b7a31322efa4afd334791779c3534ca5",
+  "input_test_image.png": "50ddf6a371b59dd9dd5303eca9985182c9597e41324c6d2142880566010f9232",
+  "metrics.json": "4f2304a72f3ed65bddbbfae9fad9f0d60e2c1c39ce5b22c5e01c75c3bcc3aa4d",
+  "module3.py": "5ecf27566ac89c2308c586482cdd91e4b989cde85152b5ffa5057a2ac1f59f43",
+  "padding_comparison.png": "fa252303fe617eeb93ed8d4462442adc4f4353efc89d604fdc747c89a3662e57",
+  "record_demo.py": "b6d4ed95f1d2831634c4754af04f72322fbe6ef50fdf32d2149aad0ce81b4897",
+  "requirements.txt": "43c3972ed56a446a5de2716878943ff9d8b4fe757a585039998c6edd6b51a4a1",
+  "tiny_example.json": "700c41f59c95fac0a4ad9654764f34ee94d0ccf879fccd0adf41d25ddb0eee53"
+}

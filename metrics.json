@@ -1,0 +1,41 @@
+{
+  "input_provenance": "Deterministic mathematical test pattern; not a camera capture.",
+  "source_file_sha256": null,
+  "input_shape": [
+    192,
+    256
+  ],
+  "kernel_shape": [
+    15,
+    15
+  ],
+  "kernel_sigma_pixels": 2.5,
+  "kernel_sum": 1.0,
+  "fft_and_full_output_shape": [
+    206,
+    270
+  ],
+  "max_abs_error": 2.1094237467877974e-15,
+  "rmse": 4.499848693526612e-16,
+  "max_imaginary_roundoff": 2.193311057787751e-16,
+  "circular_vs_zero_boundary_max_error": 0.39186342950931324,
+  "circular_vs_zero_interior_max_error": 1.887379141862766e-15,
+  "asymmetric_kernel_max_error": 4.107825191113079e-15,
+  "impulse_max_error": 4.440892098500626e-16,
+  "full_output_sum_error": 1.0913936421275139e-11,
+  "checks": {
+    "full_spatial_fft_agreement": true,
+    "same_crop_alignment": true,
+    "asymmetric_kernel": true,
+    "impulse_origin": true,
+    "full_output_sum": true,
+    "explicit_dft_example": true,
+    "circular_boundary_reference": true,
+    "interior_boundary_agreement": true
+  },
+  "all_checks_passed": true,
+  "single_run_seconds_not_a_benchmark": {
+    "spatial": 0.016310791999999852,
+    "fft": 0.005202499999999999
+  }
+}

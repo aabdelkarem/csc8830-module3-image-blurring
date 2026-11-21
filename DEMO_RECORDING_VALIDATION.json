@@ -1,0 +1,76 @@
+{
+  "recording_type": "Actual application-rendered outputs from a fresh computation; reading holds added.",
+  "desktop_capture": false,
+  "audio": false,
+  "fps": 20,
+  "frame_count": 1320,
+  "decoded_frames": 1320,
+  "size_pixels": [
+    1280,
+    720
+  ],
+  "duration_seconds": 66.0,
+  "stages": [
+    {
+      "stage": "start",
+      "first_frame": 0,
+      "frames": 120,
+      "execution_elapsed_seconds": 0.006938625000000087
+    },
+    {
+      "stage": "input",
+      "first_frame": 120,
+      "frames": 140,
+      "execution_elapsed_seconds": 0.17637933300000008
+    },
+    {
+      "stage": "spatial",
+      "first_frame": 260,
+      "frames": 140,
+      "execution_elapsed_seconds": 0.376733875
+    },
+    {
+      "stage": "frequency",
+      "first_frame": 400,
+      "frames": 160,
+      "execution_elapsed_seconds": 0.605515416
+    },
+    {
+      "stage": "comparison",
+      "first_frame": 560,
+      "frames": 160,
+      "execution_elapsed_seconds": 0.9032413749999999
+    },
+    {
+      "stage": "padding",
+      "first_frame": 720,
+      "frames": 160,
+      "execution_elapsed_seconds": 1.234058375
+    },
+    {
+      "stage": "example",
+      "first_frame": 880,
+      "frames": 160,
+      "execution_elapsed_seconds": 1.503646958
+    },
+    {
+      "stage": "validation",
+      "first_frame": 1040,
+      "frames": 160,
+      "execution_elapsed_seconds": 1.7752715000000001
+    },
+    {
+      "stage": "finish",
+      "first_frame": 1200,
+      "frames": 120,
+      "execution_elapsed_seconds": 1.989823333
+    }
+  ],
+  "opencv_version": "4.13.0",
+  "all_checks_passed": true,
+  "source_sha256": {
+    "module3.py": "4eb9643d3ab305f1ea50af501b332fbf50bae7ad74671a3331848ba27170d06a",
+    "record_demo.py": "ffef7a583c1ece6ec7a93cde31a61586faba3fe160d537935054a1885cdb901e"
+  },
+  "presentation_revision": "Final-screen preparation byline removed; results and frame count retained."
+}
